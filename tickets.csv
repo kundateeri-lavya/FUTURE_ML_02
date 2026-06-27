@@ -1,0 +1,211 @@
+ticket_text,category,priority
+I cancelled my subscription but still got charged.,Billing & Payment,Low
+I am considering cancelling my subscription due to poor service.,Complaint,Low
+I need to change the timezone settings on my account.,Account Management,Medium
+How do I configure email notifications?,General Support,Low
+I want to delete my account and all associated data.,Account Management,Low
+URGENT: I am extremely frustrated with the lack of communication.,Complaint,High
+Can I get a receipt for my payment made last week?,Billing & Payment,Low
+I need a demo of the advanced analytics features.,General Support,Low
+My application keeps crashing every time I open it.,Technical Issue,High
+What are the system requirements to run your software?,General Support,Low
+Critical issue: Can you add an undo button for accidental deletions?,Feature Request,High
+I need help setting up my first project.,General Support,Low
+What are the system requirements to run your software?,General Support,Low
+I would love a mobile app for Android tablets.,Feature Request,Low
+Screen freezes when I try to upload documents.,Technical Issue,Low
+I forgot my password and cannot reset it via email.,Account Management,Low
+Your customer support response time is unacceptably slow.,Complaint,Medium
+I'm getting a 500 internal server error on the login page.,Technical Issue,High
+My issue was closed without being resolved.,Complaint,Medium
+What file formats are supported for data import?,Product Inquiry,Low
+I want to delete my account and all associated data.,Account Management,Low
+My account shows past due even though I paid.,Billing & Payment,Low
+Please add the ability to bulk export data to Excel.,Feature Request,Low
+Does the tool support multiple languages?,Product Inquiry,Low
+What file formats are supported for data import?,Product Inquiry,Low
+I'd like to see a Gantt chart view for project timelines.,Feature Request,Low
+Critical issue: Screen freezes when I try to upload documents.,Technical Issue,High
+Critical issue: Please allow us to schedule automated reports via email.,Feature Request,High
+The system is down and I cannot access my account.,Technical Issue,High
+Please help ASAP: My issue was closed without being resolved.,Complaint,High
+Can you walk me through how to generate my first report?,General Support,Low
+How do I change my username?,Account Management,Medium
+Does the mobile app work offline?,Product Inquiry,Low
+Critical issue: How do I change my username?,Account Management,High
+How many API calls are allowed per month?,Product Inquiry,Low
+URGENT: Please add a read receipt feature for messages.,Feature Request,High
+I need a demo of the advanced analytics features.,General Support,Low
+How many API calls are allowed per month?,Product Inquiry,Low
+How do I enable two-factor authentication on my account?,Account Management,Low
+Your software is full of bugs and I am very disappointed.,Complaint,Medium
+Can you explain what the usage limits mean?,General Support,Low
+This is unacceptable — I need escalation to a manager.,Complaint,Low
+I was transferred between agents four times with no help.,Complaint,Low
+Is the software HIPAA compliant for healthcare use?,Product Inquiry,Low
+How do I invite team members to my workspace?,General Support,Low
+URGENT: How to revoke access for a former employee?,Account Management,High
+I was transferred between agents four times with no help.,Complaint,Low
+I want to delete my account and all associated data.,Account Management,Low
+Do you offer a student or educational discount?,Product Inquiry,Low
+Can I get a receipt for my payment made last week?,Billing & Payment,Low
+Getting a blank white screen after login.,Technical Issue,Low
+Can you help me understand how the dashboard works?,General Support,Low
+Is there a free trial available for the premium features?,Product Inquiry,Low
+The dashboard is not loading at all.,Technical Issue,Medium
+The report generation feature is stuck on loading.,Technical Issue,Low
+Can you add an undo button for accidental deletions?,Feature Request,Low
+I would love a mobile app for Android tablets.,Feature Request,Low
+My profile picture is not updating.,Account Management,Low
+My profile picture is not updating.,Account Management,Low
+The dashboard is not loading at all.,Technical Issue,Medium
+I'd like to see a Gantt chart view for project timelines.,Feature Request,Low
+I was charged twice for my subscription this month.,Billing & Payment,Low
+Is there a free trial available for the premium features?,Product Inquiry,Low
+It would be great to have a dark mode option in the app.,Feature Request,Low
+I am locked out of my account after too many login attempts.,Account Management,Low
+How do I contact support for urgent issues?,General Support,High
+How do I get started with the product after signing up?,General Support,Low
+Incorrect amount was deducted from my bank account.,Billing & Payment,Medium
+"Cannot connect to the server, getting timeout errors.",Technical Issue,High
+I was charged twice for my subscription this month.,Billing & Payment,Low
+App crashes immediately after launch on Android.,Technical Issue,High
+I need an invoice for my last three payments.,Billing & Payment,Low
+Does the tool support multiple languages?,Product Inquiry,Low
+Is there a white-label option available?,Product Inquiry,Low
+URGENT: Please add the ability to bulk export data to Excel.,Feature Request,High
+Tax invoice is missing my GST number.,Billing & Payment,Medium
+What analytics and reporting features are available?,Product Inquiry,Low
+This is unacceptable — I need escalation to a manager.,Complaint,Low
+Please help ASAP: My profile picture is not updating.,Account Management,High
+I need to add a purchase order number to my invoice.,Billing & Payment,Low
+What are the system requirements to run your software?,General Support,Low
+Can I merge two accounts into one?,Account Management,Low
+I'd like the ability to tag and filter tickets by custom labels.,Feature Request,Low
+"Cannot connect to the server, getting timeout errors.",Technical Issue,High
+Can you add Slack integration to the notification settings?,Feature Request,Low
+Your onboarding process is confusing and needs improvement.,Complaint,Low
+Can you add custom fields to the report builder?,Feature Request,Low
+The software is not working after the latest update.,Technical Issue,High
+How do I transfer my account to a different email address?,Account Management,Low
+Can I get a receipt for my payment made last week?,Billing & Payment,Low
+Can you add an undo button for accidental deletions?,Feature Request,Low
+What are the differences between the Basic and Pro plans?,Product Inquiry,Low
+What are the differences between the Basic and Pro plans?,Product Inquiry,Low
+I want to delete my account and all associated data.,Account Management,Low
+Please add keyboard shortcuts for common actions.,Feature Request,Low
+I need to change my billing cycle from monthly to annual.,Billing & Payment,Medium
+What are the differences between the Basic and Pro plans?,Product Inquiry,Low
+How do I transfer my account to a different email address?,Account Management,Low
+"The export feature is broken, files won't download.",Technical Issue,High
+Please add support for CSV import of user data.,Feature Request,Low
+Does the tool support multiple languages?,Product Inquiry,Low
+Payment gateway keeps rejecting my card.,Billing & Payment,Low
+API integration is throwing authentication errors.,Technical Issue,High
+How do I contact support for urgent issues?,General Support,High
+I am extremely frustrated with the lack of communication.,Complaint,Low
+My application keeps crashing every time I open it.,Technical Issue,High
+I'm getting a 500 internal server error on the login page.,Technical Issue,High
+The last agent I spoke to was very rude and unhelpful.,Complaint,Low
+Critical issue: How do I get started with the product after signing up?,General Support,High
+Please add the ability to bulk export data to Excel.,Feature Request,Low
+Please help ASAP: The system is down and I cannot access my account.,Technical Issue,High
+How do I update my credit card information?,Billing & Payment,Medium
+What is the maximum storage limit on the Pro plan?,Product Inquiry,Low
+Your customer support response time is unacceptably slow.,Complaint,Medium
+Please add keyboard shortcuts for common actions.,Feature Request,Low
+I need help setting up my first project.,General Support,Low
+Does your product support integration with Salesforce?,Product Inquiry,Low
+App crashes immediately after launch on Android.,Technical Issue,High
+I want to export all my account data.,Account Management,Low
+It would be helpful to have a calendar view for tasks.,Feature Request,Low
+My issue was closed without being resolved.,Complaint,Medium
+Critical issue: I am considering cancelling my subscription due to poor service.,Complaint,High
+Critical issue: The software is not working after the latest update.,Technical Issue,High
+Is there a community forum or knowledge base available?,General Support,Low
+How do I contact support for urgent issues?,General Support,High
+Critical issue: I forgot my password and cannot reset it via email.,Account Management,High
+I have been waiting for a resolution for over two weeks now.,Complaint,Low
+URGENT: How to revoke access for a former employee?,Account Management,High
+My account shows past due even though I paid.,Billing & Payment,Low
+I'd like to see a Gantt chart view for project timelines.,Feature Request,Low
+The discount code I applied is not reflecting in my bill.,Billing & Payment,Low
+Would love a Zapier integration for workflow automation.,Feature Request,Low
+The dashboard is not loading at all.,Technical Issue,Medium
+Your software is full of bugs and I am very disappointed.,Complaint,Medium
+Please help ASAP: Your onboarding process is confusing and needs improvement.,Complaint,High
+I am locked out of my account after too many login attempts.,Account Management,Low
+Refund not received after 10 business days.,Billing & Payment,Low
+Your software is full of bugs and I am very disappointed.,Complaint,Medium
+How do I update my credit card information?,Billing & Payment,Medium
+Is there a free trial available for the premium features?,Product Inquiry,Low
+I feel misled by your marketing claims about the product.,Complaint,Low
+How do I update my credit card information?,Billing & Payment,Medium
+I'd like the ability to tag and filter tickets by custom labels.,Feature Request,Low
+"File upload giving 413 error, please fix urgently.",Technical Issue,High
+Please help ASAP: Does the tool support multiple languages?,Product Inquiry,High
+Can I get a receipt for my payment made last week?,Billing & Payment,Low
+Please add support for CSV import of user data.,Feature Request,Low
+How do I set up webhooks for real-time updates?,General Support,Medium
+I am considering cancelling my subscription due to poor service.,Complaint,Low
+Critical issue: How do I configure email notifications?,General Support,High
+My payment failed but the amount was deducted from my account.,Billing & Payment,High
+How to revoke access for a former employee?,Account Management,Low
+I was charged twice for my subscription this month.,Billing & Payment,Low
+"File upload giving 413 error, please fix urgently.",Technical Issue,High
+Does the mobile app work offline?,Product Inquiry,Low
+Critical issue: What analytics and reporting features are available?,Product Inquiry,High
+My account permissions were changed without my consent.,Account Management,Medium
+How do I set up webhooks for real-time updates?,General Support,Medium
+I need help setting up my first project.,General Support,Low
+I want to delete my account and all associated data.,Account Management,Low
+Push notifications stopped working suddenly.,Technical Issue,Low
+API integration is throwing authentication errors.,Technical Issue,High
+Tax invoice is missing my GST number.,Billing & Payment,Medium
+Please help ASAP: How do I set up webhooks for real-time updates?,General Support,High
+URGENT: I'd like the ability to tag and filter tickets by custom labels.,Feature Request,High
+"File upload giving 413 error, please fix urgently.",Technical Issue,High
+The last agent I spoke to was very rude and unhelpful.,Complaint,Low
+How to revoke access for a former employee?,Account Management,Low
+Is there a community forum or knowledge base available?,General Support,Low
+Please help ASAP: Can you add custom fields to the report builder?,Feature Request,High
+This is unacceptable — I need escalation to a manager.,Complaint,Low
+How do I set up webhooks for real-time updates?,General Support,Medium
+Need to add a secondary admin user to my organization.,Account Management,Low
+My account shows past due even though I paid.,Billing & Payment,Low
+How many users can I add to the Enterprise plan?,Product Inquiry,Low
+Please help ASAP: Payment gateway keeps rejecting my card.,Billing & Payment,High
+Your customer support response time is unacceptably slow.,Complaint,Medium
+Please help ASAP: How do I invite team members to my workspace?,General Support,High
+URGENT: My issue was closed without being resolved.,Complaint,High
+My account shows past due even though I paid.,Billing & Payment,Low
+I need an invoice for my last three payments.,Billing & Payment,Low
+How do I change my username?,Account Management,Medium
+Please help ASAP: I'm getting a 500 internal server error on the login page.,Technical Issue,High
+My payment failed but the amount was deducted from my account.,Billing & Payment,High
+I am considering cancelling my subscription due to poor service.,Complaint,Low
+Can you help me understand how the dashboard works?,General Support,Low
+It would be great to have a dark mode option in the app.,Feature Request,Low
+How do I update my credit card information?,Billing & Payment,Medium
+I am extremely frustrated with the lack of communication.,Complaint,Low
+How do I configure email notifications?,General Support,Low
+The dashboard is not loading at all.,Technical Issue,Medium
+Can I get a receipt for my payment made last week?,Billing & Payment,Low
+Please allow us to schedule automated reports via email.,Feature Request,Low
+I'd like the ability to tag and filter tickets by custom labels.,Feature Request,Low
+The product does not work as advertised.,Complaint,Low
+Do you support single sign-on (SSO) integration?,Product Inquiry,Low
+Does your product support integration with Salesforce?,Product Inquiry,Low
+Can I use the API with the basic plan?,Product Inquiry,Low
+How do I change my username?,Account Management,Medium
+How do I change my username?,Account Management,Medium
+Can the dashboard widgets be rearranged by drag and drop?,Feature Request,Low
+Can you explain what the usage limits mean?,General Support,Low
+Screen freezes when I try to upload documents.,Technical Issue,Low
+Can you explain what the usage limits mean?,General Support,Low
+I need to change the timezone settings on my account.,Account Management,Medium
+Is there a free trial available for the premium features?,Product Inquiry,Low
+The software is not working after the latest update.,Technical Issue,High
+Does your product support integration with Salesforce?,Product Inquiry,Low
+I demand a refund for the poor service I received.,Complaint,Low
+What are the differences between the Basic and Pro plans?,Product Inquiry,Low
